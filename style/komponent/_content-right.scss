@@ -1,0 +1,42 @@
+
+#wrapper-right  {
+     font-family: $font-all;
+     background: #FFFFFF;
+     border: 2px solid #EEEEEE;
+     border-radius: 10px 10px 0px 0px;
+     h6{
+          color: #424242 ;
+          font-weight: bold;
+          font-family: $font-all;
+          font-size: 14px;
+     }
+}
+#artikel{
+     h6{
+          color: #424242 ;
+          font-weight: bold;
+          font-family: $font-all;
+          font-size: 14px;
+     }
+}
+
+
+#wrapper-content-right {
+     a{
+          background-color: $color-button;
+          color: white;
+          font-family: $font-all;
+          font-size: 8px;
+          font-weight: 600;
+          border-radius: 10px;
+          width: 50px ;
+          height: 20px;
+          padding-top: 4px;
+     }
+     #wrapper-text {
+          font-family: $font-all;
+          font-weight: 600;
+          font-size: 12px;
+          color: $color-button;
+     }
+}

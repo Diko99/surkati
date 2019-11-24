@@ -1,0 +1,77 @@
+#ct-qst {
+     font-size: 24p x;
+}
+.btn-group {
+    
+     font-size: 12px;
+     font-family: $font-all;
+     background-color: $color-filter ;
+     border-radius: 20px;
+     border: 1px solid #e5e5e5;
+     button {
+          font-size: 12px; 
+          font-family: Nunito;
+          font-style: normal;
+          color: #455A64;
+     }
+}
+.tombol {
+   a{
+        color: white;
+        position: relative;
+        background-color: $color-button;
+        font-size: 14px;        
+        font-family: Nunito;
+        width: 53px;
+        height: 21px;
+        padding:0;
+   }
+}  
+.judul-ct{
+     color: $color-button;
+     font-family: $font-all bold;
+} 
+.sub-ct {  
+     color: #9E9E9E;
+     font-family: $font-all;
+     font-size: 10px ;
+     span {
+          color: $color-button ;    
+     }
+}
+
+     #btn-fiqih{
+          position: relative;
+          color: $color-button ;
+          font-family: $font-all;
+          background-color: $color-content;
+          border: none;
+          width: 50px;
+          height: 20px;
+          font-size: 8px;
+          border-radius: 2px;
+          padding:4px ;
+     }
+
+     #jawaban {
+          font-size:8px ;
+          color: #FFA000;
+          font-family: $font-all;
+          background-color: $color-c-comment;
+          width: 80px;
+          height: 20px;
+          padding: 3px;
+     }
+     #dilihat {
+          font-size:8px ;
+          color: #1976D2;
+          font-family: $font-all;
+          background-color: $color-c-see ;
+          width: 80px;
+          height: 20px;
+          padding: 3px;
+     }
+   
+
+
+
